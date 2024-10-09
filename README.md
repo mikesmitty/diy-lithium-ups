@@ -145,7 +145,7 @@ Note: I haven't covered it elsewhere in this guide, but be sure to tie down your
 1. Double-check that the inverter is off, nothing is plugged into its output, and the shutoff switch is in the off position
 1. Run the battery positive cable from the shutoff switch (or from inverter if no shutoff) to the fuse post. There may be some brief sparking if you don't have a shutoff switch, even with the inverter off
 1. Insert the end of the battery monitor positive cable with a ferrule into the B1 port on the shunt and attach the other end to the battery fuse post
-1. Disconnect the SB-50 connectors if they're connected and attach the positive lead from one of the connectors to the positive battery fuse post
+1. Disconnect the SB-50 connectors if they're connected and attach the positive lead from one of the connectors to the inverter side of the battery shutoff (or positive battery fuse post if no shutoff)
 1. Attach the negative lead from the same connector to the Load/Charger side of the shunt. Make sure it's connected to the Load/Charger side and not the Battery side, otherwise the battery monitor won't be able to track how much power the charger has put into the battery. I used a washer and attached it to the screw terminal on the side.
 1. Ensure the charger is unplugged before continuing
 1. Cut off the attached terminals from the other SB-50 connector pigtail, strip back a bit of insulation, insert the wires into the corresponding terminals on the charger and tighten them down
