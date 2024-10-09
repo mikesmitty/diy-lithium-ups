@@ -54,14 +54,17 @@ As mentioned previously, these batteries have a lot of power in them so it's imp
 Some people only fuse the battery output where the battery positive goes to the charger/inverter, but since my rack is on wheels and things could get jostled around, I opted to put a fuse on each battery positive terminal individually.
 
 ### Battery Cables
-Battery cables need to be sized appropriately for the amount of power they'll see. I wanted ~3 ft of cable between the inverter and the batteries so these are the cable gauges/lengths I bought:
+Battery cables need to be sized appropriately for the amount of power they'll see. The inverter manual will likely tell you what size cable is required. For my inverter (12V/800VA) it recommends a minimum cable cross-section of 6awg/16mm<sup>2</sup> for cables up to 5ft/1.5m in length. Be sure to spec out your cable appropriately for the maximum capacity of your inverter; insufficient cable thickness will cause the wiring to heat up significantly during use, and having a fire in the middle of a power outage is objectively among the least convenient times.
+
+I wanted ~3 ft of cable between the inverter and the batteries so these are the cable gauges/lengths I bought:
 - (1x) 1 ft, 6 AWG, 3/8" (M10) ends, Black (battery to shunt)
 - (1x) 2 ft, 6 AWG, 3/8" (M10) ends, Black (shunt to inverter)
-- (1x) 3 ft, 6 AWG, 5/16" (M8) ends, Red (battery to inverter)
-- (2x) 8 AWG, 50A Anderson SB-50 connector pigtails (charger negative to shunt, charger positive to battery positive) [link](https://www.amazon.com/dp/B0D62RT9CF)
+- (1x) 3 ft, 6 AWG, 5/16" (M8) ends, Red (battery to shutoff)
+- (1x) 1 ft, 6 AWG, 5/16" (M8) ends, Red (shutoff to inverter)
+- (2x) 8 AWG, 50A Anderson SB-50 connector pigtails (charger negative to shunt, charger positive to battery shutoff) [link](https://www.amazon.com/dp/B0D62RT9CF)
 
 ### Battery Cutoff Switch
-Optionally, you may want to add a battery cutoff switch. This is handy to prevent sparking when disconnecting/reconnecting the battery terminals to the inverter or for emergency situations. Not strictly necessary, but good to have.
+You likely will want to add a battery cutoff switch. This is handy to prevent sparking when disconnecting/reconnecting the battery terminals to the inverter or for emergency situations. There are any number of battery shutoff switches out there, just be sure they support the maximum output power of your inverter. I went with [this one](https://www.amazon.com/dp/B095X94JXF) from Victron since it's an important component and I wanted a name brand, but there are plenty of cheaper options available; some even have a voltmeter built in to display the battery voltage.
 
 ### Automatic Transfer Switch
 If your charger(s) have enough output to power the load as well as charge the battery you can forego the transfer switch and make a double-conversion UPS of sorts, but there are a few downsides to this.
