@@ -132,6 +132,8 @@ The inner dimension between the legs is 444mm (~17.5") and the outer dimension o
 ![lack shelf brackets](images/lack-rack-layout.png)
 
 # Assembly
+Note: I haven't covered it elsewhere in this guide, but be sure to tie down your batteries so they are unable to move around and cause a short circuit and/or a fire. I'm still working on building an option that I like.
+
 0. Before beginning, you may want to remove any metallic jewelry (rings, bracelets, necklaces). Unexpected electrical conductors attached to your body can cause unpleasant surprises
 1. Mount the components in the locations where you'd like them to be
 1. If you bought pre-made cables with battery terminals on both ends for the inverter cut off the terminal on one end, strip off a bit of the insulation, insert it into the inverter's terminals, and tighten them down
