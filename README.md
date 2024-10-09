@@ -7,7 +7,7 @@ Batteries with this much power can easily start fires or weld stray metal object
 All that to say, there is some inherent risk and don't hold me responsible if your house burns down.
 
 # But why?
-- Commercial lithium UPSes are _expensive_ ($2-3k on the low end). There's a few reasons for this, one being that you need relatively high output batteries to fit them in a compact package; often a 2U rack-mount form factor, which is only 3.5" tall. The second is only an assumption, but given that traditional lead-acid UPS batteries only last 2-3 years I'm sure major UPS manufacturers aren't in a hurry to kill their recurring-revenue replacement battery cash cow by offering Lithium-ion based units with batteries that last 8-10 years.
+- Commercial lithium UPSes are _expensive_ ($1k for single-digit minutes of runtime on the low end). There's a few reasons for this, one being that you need relatively high output batteries to fit them in a compact package; often a 2U rack-mount form factor, which is only 3.5" tall. The second is only an assumption, but given that traditional lead-acid UPS batteries only last 2-3 years I'm sure major UPS manufacturers aren't in a hurry to kill their recurring-revenue replacement battery cash cow by offering Lithium-ion based units with batteries that last 8-10 years.
 - Lead-acid batteries are really not ideal for a few different reasons.
     1. As already mentioned, lead-acid batteries have a limited lifespan, gradually reducing their usable runtime over the course of a few years to virtually nothing
     1. They also generally don't like being drained below 50%, while Lithium-ion batteries don't mind being drained all the way down to 10%
