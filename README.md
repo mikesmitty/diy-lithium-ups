@@ -59,8 +59,8 @@ Battery cables need to be sized appropriately for the amount of power they'll se
 I wanted ~3 ft of cable between the inverter and the batteries so these are the cable gauges/lengths I bought:
 - (1x) 1 ft, 6 AWG, 3/8" (M10) ends, Black (battery to shunt)
 - (1x) 2 ft, 6 AWG, 3/8" (M10) ends, Black (shunt to inverter)
-- (1x) 3 ft, 6 AWG, 5/16" (M8) ends, Red (battery to shutoff)
-- (1x) 1 ft, 6 AWG, 5/16" (M8) ends, Red (shutoff to inverter)
+- (1x) 3 ft, 6 AWG, 3/8" (M10) ends, Red (battery to shutoff)
+- (1x) 1 ft, 6 AWG, 3/8" (M10) ends, Red (shutoff to inverter)
 - (2x) 8 AWG, 50A Anderson SB-50 connector pigtails (charger negative to shunt, charger positive to battery shutoff) [link](https://www.amazon.com/dp/B0D62RT9CF)
 
 ### Battery Cutoff Switch
